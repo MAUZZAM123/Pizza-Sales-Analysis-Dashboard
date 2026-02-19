@@ -25,3 +25,5 @@ Lowest-Selling Pizza
 Orders by Day & Week
 Orders by Time of Day
 Category-wise Sales Distribution
+
+![image alt](https://github.com/MAUZZAM123/Pizza-Sales-Analysis-Dashboard/blob/86fbbea4e1ea2a645f09eb21225155f4b160a0d1/Screenshot%202026-02-19%20193630.png)
